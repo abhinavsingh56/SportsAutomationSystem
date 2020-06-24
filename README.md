@@ -1,2 +1,3 @@
 # SportsAutomationSystem
 Sports Automation System For participation, Payment and prize distribution online
+ files uploaded here are not at there correct path package and folder executing and testing it make sure you do that...
